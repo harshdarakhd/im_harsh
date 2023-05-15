@@ -40,6 +40,8 @@
 
 
 ---
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=harshdarakhd" alt="HarshDarak" />
 [![](https://visitcount.itsvg.in/api?id=harshdarakhd&icon=0&color=1)](https://visitcount.itsvg.in)
 
   
