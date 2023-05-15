@@ -22,9 +22,7 @@
 ![Python](https://img.shields.io/badge/Python-005571?style=for-the-badge&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ## 📈 My Projects
-<p align="left">
 - 👨‍💻 All of my projects are available  [here](https://github.com/harshdarakhd?tab=repositories)
-</p>
 <!-- <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=harshdarakhd&theme=minimal"/>
 </p> -->
