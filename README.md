@@ -36,8 +36,6 @@
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshdarakhd&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshdarakhd&theme=vue" />
-	<img width="48%" src="https://github.com/harshdarakhd/github-readme-stats" />
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshdarakhd" />
 </p>
 
 ---
