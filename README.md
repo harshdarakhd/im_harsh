@@ -20,10 +20,13 @@
 
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/Python-005571?style=for-the-badge&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-## 📈 Activity Graph
+## 📈 My Projects
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=harshdarakhd&theme=minimal"/>
+- 👨‍💻 All of my projects are available  [here](https://github.com/harshdarakhd?tab=repositories)
 </p>
+<!-- <p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=harshdarakhd&theme=minimal"/>
+</p> -->
 
 ## 💳 Github Profile Summary Card
 <p align="center">
