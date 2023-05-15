@@ -20,6 +20,7 @@
 
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/Python-005571?style=for-the-badge&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ## 📈 My Projects
 <p align="left">
 - 👨‍💻 All of my projects are available  [here](https://github.com/harshdarakhd?tab=repositories)
@@ -39,19 +40,9 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshdarakhd&theme=vue" />
 </p>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harshdarakhd&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mtechviral) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/imthepk) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/mtechviral) 
   
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
